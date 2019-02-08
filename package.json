@@ -58,7 +58,7 @@
   "license": "MIT",
   "dependencies": {
     "bitcore-lib": "^0.15.0",
-    "bitcore-mnemonic": "^1.5.0",
+    "bitcore-mnemonic": "1.5.0",
     "buffer": "^4.9.0",
     "crypto-js": "^3.1.5",
     "elliptic": "^3.1.0",
@@ -67,6 +67,8 @@
     "rlp": "^2.0.0",
     "scrypt-async": "^1.2.0",
     "tweetnacl": "0.13.2",
+    "express": "4.14.0",
+    "cors": "latest",
     "web3": "0.20.2"
   },
   "devDependencies": {
